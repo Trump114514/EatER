@@ -344,10 +344,10 @@ function shareText(score) {
     }
     SubmitResults();
     if (score <= 20) return '破防小狗都瞧不起你';
-    if (score <= 30) return '所以呢?so?';
+    if (score <= 30) return '所以呢?so?xswl 呵呵）';
     if (score <= 50) return '破防教新晋成员';
-    if (score <= 70) return 'xswl 呵呵）';
-    if (score <= 100) return '破防教狂热粉丝';
+    if (score <= 70) return '破防教狂热粉丝';
+    if (score <= 100) return '破防教核心人物';
     if (score <= 130) return '破防宗';
     return '人？';
 }
